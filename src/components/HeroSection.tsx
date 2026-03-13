@@ -48,11 +48,6 @@ const HeroSection = () => {
               Contact Me <Send size={16} />
             </a>
           </Button>
-          <Button asChild variant="secondary" size="lg" className="gap-2">
-            <a href="/Hasanboy_Mukhtorov_CV.pdf" download>
-              Download CV <FileDown size={16} />
-            </a>
-          </Button>
         </motion.div>
 
         <motion.div
